@@ -59,9 +59,11 @@ Hospital-Management-System/
 
 ## 🗄️ Database Setup
 1. Create a database in MySQL:
-   ```
-   CREATE DATABASE hospitaldb;
+
 ```
+CREATE DATABASE hospitaldb;
+```
+
 2. Create tables for doctors, patients, and logins based on your DAO structure.
 
 3. Update DB credentials inside spring-servlet.xml:
@@ -71,6 +73,7 @@ Hospital-Management-System/
 <property name="username" value="YOUR_DB_USERNAME"/>
 <property name="password" value="YOUR_DB_PASSWORD"/>
 ```
+
 ⚙️ Configuration Files
 File	Purpose
 web.xml	Defines DispatcherServlet and URL mapping
