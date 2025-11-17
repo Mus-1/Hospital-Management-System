@@ -96,6 +96,7 @@ mvn clean install
 ```
 http://localhost:8080/Hospital-Management-System/
 ```
+
 💡 Features
 ✅ CRUD operations for doctors, patients, and login users
 ✅ Follows MVC architecture using Spring framework
