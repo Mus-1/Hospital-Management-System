@@ -17,6 +17,7 @@
 ---
 
 ## 📂 Project Structure
+```
 Hospital-Management-System/
 │
 ├── pom.xml
@@ -57,6 +58,7 @@ Hospital-Management-System/
 │ │ └── viewLogin.jsp
 │
 └── .gitignore
+```
 ---
 
 ## 🗄️ Database Setup
