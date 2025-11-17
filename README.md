@@ -57,10 +57,6 @@ Hospital-Management-System/
 │ │ └── viewLogin.jsp
 │
 └── .gitignore
-
-yaml
-Copy code
-
 ---
 
 ## 🗄️ Database Setup
