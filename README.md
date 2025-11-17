@@ -99,10 +99,15 @@ http://localhost:8080/Hospital-Management-System/
 
 💡 Features
 ✅ CRUD operations for doctors, patients, and login users
+
 ✅ Follows MVC architecture using Spring framework
+
 ✅ JSP views for user-friendly interface
+
 ✅ JDBC integration with MySQL database
+
 ✅ Maven-based build and dependency management
+
 ✅ Easy deployment on Apache Tomcat
 
 🧠 Concepts Demonstrated
