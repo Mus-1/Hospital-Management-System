@@ -14,7 +14,6 @@
 - **Maven Build Tool**
 - **Eclipse / IntelliJ IDEA**
 
----
 
 ## 📂 Project Structure
 ```
@@ -59,11 +58,10 @@ Hospital-Management-System/
 │
 └── .gitignore
 ```
----
 
 ## 🗄️ Database Setup
 1. Create a database in MySQL:
-   ```sql
+   ```
    CREATE DATABASE hospitaldb;
 ```
 2. Create tables for doctors, patients, and logins based on your DAO structure.
