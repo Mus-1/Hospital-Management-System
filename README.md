@@ -3,8 +3,6 @@
 > A full-stack Java web application built using **Spring MVC**, **JSP**, and **JDBC**, following the **MVC (Model–View–Controller)** architecture.  
 > The system manages doctors, patients, and user logins with CRUD operations and MySQL database integration.
 
----
-
 ## ⚙️ Tech Stack
 - **Java 8+**
 - **Spring MVC 5**
